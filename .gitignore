@@ -1,0 +1,11 @@
+
+Project-.8916569a/
+Project-.8916569a/x64/
+
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
+framework.h
