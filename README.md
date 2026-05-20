@@ -2,6 +2,7 @@
 Inspired by Glow's welcome text thing
 
 Needs to be injected with the launcher for your project!
+**Change the name in dllmain.cpp**
 
 Features:
 
