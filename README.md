@@ -1,4 +1,4 @@
-# Project Welcome DLL Buildder
+# Project Welcome DLL Builder
 Inspired by Glow's welcome text thing
 
 Needs to be injected with the launcher for your project!
